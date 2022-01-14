@@ -22,8 +22,8 @@ A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Mana
 "><script>alert(document.cookie)</script>
 ```
 
-5. Click on update button.
-6. Malicious javascript code triggered.
+4. Click on update button.
+5. Malicious javascript code triggered.
 
 ### Impact:
 An attacker can able to inject malicious JavaScript code in My Account Section.
