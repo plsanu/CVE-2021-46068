@@ -4,7 +4,7 @@
 ### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
 ### CVE: CVE-2021-46068
 ### CVSS: 4.8 MEDIUM
-### Reference: 
+### References: 
 - https://www.plsanu.com/vehicle-service-management-system-myaccount-stored-cross-site-scripting-xss
 - https://nvd.nist.gov/vuln/detail/CVE-2021-46068
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46068
